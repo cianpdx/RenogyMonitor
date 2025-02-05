@@ -9,6 +9,9 @@
   based on excellent work from:
   https://github.com/chadj/renogy-smart-battery
   https://github.com/distancerunner/Renogy-Battery-ESP32-Bluetooth-MQTT-Bridge
+
+  Heltec WifiKit V3
+  NimBLE v2
 */
 
 
